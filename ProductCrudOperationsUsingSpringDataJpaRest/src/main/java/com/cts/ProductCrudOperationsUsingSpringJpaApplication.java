@@ -15,6 +15,7 @@ import com.cts.service.ProductServiceImpl;
 public class ProductCrudOperationsUsingSpringJpaApplication {
 
 	public static void main(String[] args) {
+		System.out.println("hello");
 		SpringApplication.run(ProductCrudOperationsUsingSpringJpaApplication.class, args);
 }
 }
